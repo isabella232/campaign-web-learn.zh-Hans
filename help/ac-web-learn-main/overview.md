@@ -4,7 +4,7 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 24deab035cd5610129f3bb6fe623b7cab611a107
+source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 44%
@@ -26,4 +26,14 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 > 请参阅
 > 
 > * [Campaign客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) 有关Campaign控制台的指导
-> * [Adobe Campaign Web文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) 有关Campaign Web用户界面的详细信息。
+> * [Adobe Campaign Web文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) 有关Campaign Web用户界面的详细信息。
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+</div>
