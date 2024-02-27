@@ -4,7 +4,7 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 6a3f3844cb5d835b79b1477a59add9c8aea3fe34
+source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 79%
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Web用户界面特性和功能的视频和教程。 新视频会定期添加。
 
-基于业务和数据需求的 Campaign 平台自定义以及与其他系统的连接是在 Campaign 客户端控制台中管理的。因此，对于某些设置和功能，只能从 Campaign 客户端控制台访问、创建或管理它们。请参阅（Campaign Web和客户端控制台指南）[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] 有关未来将推出的设置和功能的概述。
+基于业务和数据需求的 Campaign 平台自定义以及与其他系统的连接是在 Campaign 客户端控制台中管理的。因此，对于某些设置和功能，只能从 Campaign 客户端控制台访问、创建或管理它们。请参阅 [Campaign Web和客户端控制台指南](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html) 有关未来将推出的设置和功能的概述。
 
 >[!INFO]
 > 
