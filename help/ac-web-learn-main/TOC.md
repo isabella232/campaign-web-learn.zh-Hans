@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 88%
+source-wordcount: '96'
+ht-degree: 83%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 88%
 + 用户档案和受众 {#profiles-and-audiences}
    + [浏览用户档案](/help/profiles-and-audiences/explore-profiles.md)
    + [管理和构建受众](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [创建具有Experience Platform的受众](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流{#workflows}
    + [创建定位工作流](/help/workflows/create-a-targeting-workflow.md)
 + [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans)
