@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
+source-git-commit: 44ebccd588fbf418a2a1004078ca95d408d2f20c
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 68%
@@ -31,6 +31,6 @@ ht-degree: 68%
 + 工作流{#workflows}
    + [创建定位工作流](/help/workflows/create-a-targeting-workflow.md)
 + [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans)
-+ [Experience League实时录制]{#exl-live-recordings}
++ Experience League实时录制 {#exl-live-recordings}
    + [全新Adobe Campaign Web用户界面大步前进](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
 
