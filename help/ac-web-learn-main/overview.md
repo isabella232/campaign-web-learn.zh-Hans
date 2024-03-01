@@ -1,17 +1,17 @@
 ---
-title: Adobe Campaign Web 用户界面
+title: Adobe Campaign Web用户界面 — Tutorials
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Web 用户界面的特性和功能的视频和教程。
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
+source-git-commit: 74d78d04b6e7ad3c2f631a5f01a9bd5ff8061bd3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 71%
+source-wordcount: '271'
+ht-degree: 66%
 
 ---
 
-# Adobe Campaign Web 用户界面
+# Adobe Campaign Web用户界面 — Tutorials
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Web用户界面特性和功能的视频和教程。 新视频会定期添加。
 
