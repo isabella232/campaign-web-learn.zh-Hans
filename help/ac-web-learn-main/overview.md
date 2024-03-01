@@ -4,10 +4,10 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 79%
+source-wordcount: '269'
+ht-degree: 71%
 
 ---
 
@@ -36,3 +36,10 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 <div id="staff-picks-section">
 </div>
+
+## Experience League现场活动
+
+* **[全新Adobe Campaign Web用户界面大步前进](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)**
+
+  *了解如何在新的用户体验中规划、启动和衡量跨渠道活动。*
+
