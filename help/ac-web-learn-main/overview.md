@@ -6,17 +6,17 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 source-git-commit: 10e858e34a40157347f026c8c7a0db1326d872bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign Web 用户界面教程
 
-Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Web用户界面特性和功能的视频和教程。 新视频会定期添加。
+Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Web 用户界面的特性和功能的视频和教程。会定期添加新视频。
 
-基于业务和数据需求的 Campaign 平台自定义以及与其他系统的连接是在 Campaign 客户端控制台中管理的。因此，对于某些设置和功能，只能从 Campaign 客户端控制台访问、创建或管理它们。请参阅 [Campaign Web和客户端控制台指南](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html){target="_blank"} 有关未来将推出的设置和功能的概述。
+基于业务和数据需求的 Campaign 平台自定义以及与其他系统的连接是在 Campaign 客户端控制台中管理的。因此，对于某些设置和功能，只能从 Campaign 客户端控制台访问、创建或管理它们。请参阅 [Campaign Web 和客户端控制台指南](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=zh-Hans){target="_blank"}，概要了解将在未来提供的设置和功能。
 
 >[!INFO]
 > 
@@ -25,8 +25,8 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 >
 > 这些教程不是您要查找的内容？
 > 请参阅
-> * [Campaign客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"} 有关Campaign控制台的指导
-> * [Adobe Campaign Web文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} 有关Campaign Web用户界面的详细信息。
+> * [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign 控制台的指导
+> * [Adobe Campaign Web 文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign Web 用户界面的详细信息。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -38,9 +38,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 <div id="staff-picks-section">
 </div>
 
-## Experience League现场活动
+## Experience League Live 活动
 
-* **[全新Adobe Campaign Web用户界面大步前进](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
+* **[借助新的 Adobe Campaign Web 用户界面实现飞跃](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}**
 
-  *了解如何在新的用户体验中规划、启动和衡量跨渠道活动。*
+  *了解如何在新的用户体验中规划、启动和衡量跨渠道营销活动。*
 

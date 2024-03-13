@@ -1,6 +1,6 @@
 ---
 title: 了解知识助手
-description: 了解如何使用AI驱动的知识助手来回答您的问题。
+description: 了解如何使用 AI 驱动的知识助手来回答您的问题。
 feature: Overview
 role: User
 level: Beginner
@@ -10,15 +10,15 @@ jira: KT-14453
 hidefromtoc: true
 hide: true
 source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 了解知识助手
 
-了解如何使用AI驱动的知识助手来回答您的问题。
+了解如何使用 AI 驱动的知识助手来回答您的问题。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425807/?learn=on)
