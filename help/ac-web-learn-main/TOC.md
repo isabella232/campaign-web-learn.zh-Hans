@@ -6,7 +6,7 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
 source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
